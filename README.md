@@ -36,8 +36,8 @@
 # Definition: Organizing related functionalities in reusable functions or objects.
 # Usage of Code: Encapsulation and abstraction in event-driven programming.
 
-#Sustainable Development Goals
-#The GUIDE system aims to improve education, productivity, and well-being, aligning with Sustainable Development Goals (SDGs). It supports SDG 4: Quality Education by providing equitable access to technologies, SDG 8: Decent Work and Economic Growth by training users, SDG 3: Good Health and Well-being by encouraging balanced study habits, SDG 10: Reduced Inequalities, and SDG 9: Industry, Innovation, and Infrastructure.
+# Sustainable Development Goals
+# The GUIDE system aims to improve education, productivity, and well-being, aligning with Sustainable Development Goals (SDGs). It supports SDG 4: Quality Education by providing equitable access to technologies, SDG 8: Decent Work and Economic Growth by training users, SDG 3: Good Health and Well-being by encouraging balanced study habits, SDG 10: Reduced Inequalities, and SDG 9: Industry, Innovation, and Infrastructure.
 
 #Instructions
 # 1.The first thing the user need to here is to sign-up by clicking the “Sign-up Button”.
