@@ -39,13 +39,13 @@
 # Sustainable Development Goals
 # The GUIDE system aims to improve education, productivity, and well-being, aligning with Sustainable Development Goals (SDGs). It supports SDG 4: Quality Education by providing equitable access to technologies, SDG 8: Decent Work and Economic Growth by training users, SDG 3: Good Health and Well-being by encouraging balanced study habits, SDG 10: Reduced Inequalities, and SDG 9: Industry, Innovation, and Infrastructure.
 
-#Instructions
+# Instructions
 # 1.The first thing the user need to here is to sign-up by clicking the “Sign-up Button”.
 # 2.After clicking th e sign-up button the user will be redirected to a page where the user need to fill out information in order to sign-up.
 # 3. After signing-up proceed to login the newly created account in the Login Page.
 # 4. After logging in, the user will be brought into the Dashboard Page where they can explore freely on that page.
 # 5. Just click either To-Do list or Music Player. If the user prefer silence upon doing their task then it is fine to not go to the music player and proceed to the To-do List. But if the user prefer to have     music then feel free to go the music player page.
 # 6. If the user happen to be tha admin and login into the admin section in the Login Page. Then the admin will go to the Admin Page.
-# 7. 8.The Admin page is strictly for the usage of only the admin because all of the button shows data of the database that is only for the admin to see.
+# 7. The Admin page is strictly for the usage of only the admin because all of the button shows data of the database that is only for the admin to see.
  
 
